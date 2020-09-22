@@ -1,5 +1,6 @@
 # Titanic_Dataset
-Kaggle Competition - Titanic dataset
+Kaggle Competition - Titanic dataset :
+The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 ### Rank : 3349/18212
 
 Please follow KaggleTitanic.ipynb
